@@ -84,6 +84,10 @@
     "action": "enable"
   },
   {
+    "id": "mod-inventory-update",
+    "action": "enable"
+  },
+  {
     "id": "mod-ncip",
     "action": "enable"
   },
@@ -105,10 +109,6 @@
   },
   {
     "id": "mod-audit",
-    "action": "enable"
-  },
-  {
-    "id": "mod-inn-reach-1.1.0-SNAPSHOT.86",
     "action": "enable"
   }
 ]
