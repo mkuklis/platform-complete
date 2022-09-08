@@ -1474,10 +1474,9 @@
     lodash "^4.17.11"
     prop-types "^15.6.0"
 
-"@folio/inventory@9.1.11":
-  version "9.1.11"
-  resolved "https://repository.folio.org/repository/npm-folio/@folio/inventory/-/inventory-9.1.11.tgz#37339da1be31bffd0cbef71143c41c4ef2e9b933"
-  integrity sha512-vBC98/hSc8Iv5lazuacNQBcLJwfsOWuHjDQLflkXa6CtpfB1KCCTBElbHhUka60Pfq1rVmyKImGkufmNqBqDQQ==
+"@folio/inventory@folio-org/ui-inventory#UIIN-2155":
+  version "9.2.0"
+  resolved "https://codeload.github.com/folio-org/ui-inventory/tar.gz/c2db73386f8a37a153239de2702c7c239b620608"
   dependencies:
     "@folio/quick-marc" "^5.0.0"
     "@testing-library/dom" "^7.29.4"
@@ -9764,7 +9763,7 @@ postcss-calc@^8.0.0, postcss-calc@^8.2.3:
     postcss-selector-parser "^6.0.9"
     postcss-value-parser "^4.2.0"
 
-"postcss-color-function@github:folio-org/postcss-color-function":
+postcss-color-function@folio-org/postcss-color-function:
   version "4.1.0"
   resolved "https://codeload.github.com/folio-org/postcss-color-function/tar.gz/c128aad740ae740fb571c4b6493f467dd51efe85"
   dependencies:
